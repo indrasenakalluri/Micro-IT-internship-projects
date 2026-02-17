@@ -94,3 +94,11 @@ Database integration
 Score tracking system
 
 Advanced features and improved user experience
+
+## 👨‍💻 Author
+
+**Indrasena Kalluri**  
+
+- 💻 GitHub: [indrasenakalluri](https://github.com/indrasenakalluri)  
+- 🔗 LinkedIn: [Indrasena Kalluri](https://www.linkedin.com/in/indrasena-kalluri)  
+
